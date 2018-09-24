@@ -116,7 +116,7 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 ### Sorting
 
-1. Implement bubble sort
+1. [Implement bubble sort](Sorting/bubble_sort.py)
 
 2. Implement selection sort
 
