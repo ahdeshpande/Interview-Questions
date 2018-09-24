@@ -4,44 +4,43 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 ### General
 
-1. Find the most frequent integer in an array
+1. [Find the most frequent integer in an array](General/most_frequent_number.py)
 
-2. Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)
+2. [Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)](General/sum_to_ten.py)
 
-3. Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
+3. [Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}](General/rotated_array.py)
 
 4. Write fibbonaci iteratively and recursively (bonus: use dynamic programming)
 
-5. Find the only element in an array that only occurs once.
+5. [Find the only element in an array that only occurs once.](General/only_element.py)
 
-6. Find the common elements of 2 int arrays
+6. [Find the common elements of 2 int arrays](General/common_elements.py)
 
 7. Implement binary search of a sorted array of integers
 
-8. Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
+8. [Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})](General/rotated_binary_search.py)
 
 9. Use dynamic programming to find the first X prime numbers
 
-10. Write a function that prints out the binary form of an int
+10. [Write a function that prints out the binary form of an int](General/parse_binary.py)
 
 11. Implement parseInt
 
-12. Implement squareroot function
+12. [Implement squareroot function](General/square_root.py)
 
-13. Implement an exponent 
-function (bonus: now try in log(n) time)
+13. [Implement an exponent function (bonus: now try in log(n) time)](General/exponent.py)
 
-14. Write a multiply function that multiples 2 integers without using *
+14. [Write a multiply function that multiples 2 integers without using * ](General/arithmetic_operations.py)
 
 15. HARD: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 
-16. HARD: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)
+16. [HARD: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)](General/island_count.py)
 
 ### Strings
 
-1. Find the first non-repeated character in a String
+1. [Find the first non-repeated character in a String](General/first_non_repeated_char.py)
 
-2. Reverse a String iteratively and recursively
+2. [Reverse a String iteratively and recursively](General/reverse_string.py)
 
 3. Determine if 2 Strings are anagrams
 
