@@ -38,11 +38,11 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 ### Strings
 
-1. [Find the first non-repeated character in a String](General/first_non_repeated_char.py)
+1. [Find the first non-repeated character in a String](String/first_non_repeated_char.py)
 
-2. [Reverse a String iteratively and recursively](General/reverse_string.py)
+2. [Reverse a String iteratively and recursively](String/reverse_string.py)
 
-3. Determine if 2 Strings are anagrams
+3. [Determine if 2 Strings are anagrams](String/string_anagrams.py)
 
 4. Check if String is a palindrome
 
