@@ -120,7 +120,7 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 2. [Implement selection sort](Sorting/selection_sort.py)
 
-3. Implement insertion sort
+3. [Implement insertion sort](Sorting/insertion_sort.py)
 
 4. Implement merge sort
 
