@@ -122,6 +122,6 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 3. [Implement insertion sort](Sorting/insertion_sort.py)
 
-4. Implement merge sort
+4. [Implement merge sort](Sorting/merge_sort.py)
 
 5. Implement quick sort

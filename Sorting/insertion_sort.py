@@ -1,4 +1,4 @@
-# Implement selection sort
+# Implement insertion sort
 
 import unittest
 
