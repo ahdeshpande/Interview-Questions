@@ -118,7 +118,7 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 1. [Implement bubble sort](Sorting/bubble_sort.py)
 
-2. Implement selection sort
+2. [Implement selection sort](Sorting/selection_sort.py)
 
 3. Implement insertion sort
 
