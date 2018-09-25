@@ -124,4 +124,4 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 4. [Implement merge sort](Sorting/merge_sort.py)
 
-5. Implement quick sort
+5. [Implement quick sort](Sorting/quick_sort.py)
