@@ -44,7 +44,7 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 3. [Determine if 2 Strings are anagrams](String/string_anagrams.py)
 
-4. Check if String is a palindrome
+4. [Check if String is a palindrome](String/palindrome_string.py)
 
 5. Check if a String is composed of all unique characters
 
