@@ -46,7 +46,7 @@ The repository contains the solutions to the [Reddit post](https://www.reddit.co
 
 4. [Check if String is a palindrome](String/palindrome_string.py)
 
-5. Check if a String is composed of all unique characters
+5. [Check if a String is composed of all unique characters](String/unique_characters.py)
 
 6. Determine if a String is an int or a double
 
